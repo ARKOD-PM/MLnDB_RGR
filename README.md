@@ -23,7 +23,7 @@
 
 1. Клонирование удаленного репозитория проекта и переход в рабочий каталог.
 ```bash
-git clone [https://github.com/ARKOD-PM/MLnDB_RGR.git](https://github.com/ARKOD-PM/MLnDB_RGR.git)
+git clone https://github.com/ARKOD-PM/MLnDB_RGR.git
 cd MLnDB_RGR
 ```
 
