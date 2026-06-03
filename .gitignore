@@ -1,0 +1,13 @@
+__pycache__/
+catboost_info/
+tmp/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+venv/
+env/
+ENV/
+.vscode/
+.idea/
+.DS_Store
